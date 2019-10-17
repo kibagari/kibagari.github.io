@@ -5,3 +5,4 @@
 I am a professional in the finance industry trying to change careers to tech.  I have been coding off and on since 2000, starting with C++,  and studied Computer Science at Bloomsburg University from 2006-2008. 
 
 To see some of my sample projects, visit [Portfolio](https://kibagari.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/scott-klobe-09a88355/)
