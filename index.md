@@ -8,4 +8,6 @@ My more recent endeavors have been learning SQL and Python over this summer as a
 
 To see some of my sample projects, visit [Portfolio](https://kibagari.github.io/Portfolio/)
 
+Email: scott.klobe@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/scott-klobe-09a88355/)
