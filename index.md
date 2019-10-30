@@ -6,7 +6,7 @@ I am a professional in the finance industry seeking to change careers to tech.  
 
 My more recent endeavors have been learning SQL and Python over this summer as a way to re-engage myself without rehashing previous languages.
 
-To see some of my sample projects, visit my [Portfolio](https://kibagari.github.io/Portfolio/)
+To see some of my sample projects, visit my [Portfolio](https://kibagari.github.io/Portfolio/).
 
 Email: <scott.klobe@gmail.com>
 
