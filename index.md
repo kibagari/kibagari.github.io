@@ -1,6 +1,6 @@
 # Scott Klobe
 
-<img src="https://kibagari.github.io/images/scott.jpg" width="100" height="100">
+<img src="https://kibagari.github.io/images/scott.jpg" width="150" height="150">
 
 I am a professional in the finance industry seeking to change careers to tech.  I have been coding off and on since 2000, starting with C++,  and studied Computer Science at Bloomsburg University from 2006-2008 primarily focused on Java. 
 
